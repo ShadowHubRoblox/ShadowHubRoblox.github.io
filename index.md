@@ -1,0 +1,3 @@
+# Home
+
+- [Checkpoints](/checkpoints)
